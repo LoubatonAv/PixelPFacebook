@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/PixelPFacebook/static/css/main.e9730a2f.css",
-    "main.js": "/PixelPFacebook/static/js/main.4f583f49.js",
+    "main.css": "/PixelPFacebook/static/css/main.3799194a.css",
+    "main.js": "/PixelPFacebook/static/js/main.121a622a.js",
     "static/js/787.a46efa3f.chunk.js": "/PixelPFacebook/static/js/787.a46efa3f.chunk.js",
     "static/media/wow.jpg": "/PixelPFacebook/static/media/wow.9a6544fbbadf9ac73212.jpg",
     "static/media/gikia.jpg": "/PixelPFacebook/static/media/gikia.55d2e387156ad8218c7a.jpg",
+    "static/media/puppy.jpg": "/PixelPFacebook/static/media/puppy.6375a60248815c3c4eda.jpg",
     "static/media/lol.jpg": "/PixelPFacebook/static/media/lol.3acf1cb39163294a80f5.jpg",
     "static/media/tibia.jpg": "/PixelPFacebook/static/media/tibia.a1a7ec23db7c219d769c.jpg",
     "static/media/misrot.jpg": "/PixelPFacebook/static/media/misrot.1fbc1a69e1bbfec35934.jpg",
@@ -33,12 +34,12 @@
     "static/media/bluegaming.svg": "/PixelPFacebook/static/media/bluegaming.8258bec3eb706e6c1a0b6f3f46f64ec2.svg",
     "static/media/gaming.svg": "/PixelPFacebook/static/media/gaming.53d71a147fa48a88edc23c87f78bbee3.svg",
     "static/media/share-svgrepo-com.svg": "/PixelPFacebook/static/media/share-svgrepo-com.5241232e3c290ae3e68df84ff8b469bf.svg",
-    "main.e9730a2f.css.map": "/PixelPFacebook/static/css/main.e9730a2f.css.map",
-    "main.4f583f49.js.map": "/PixelPFacebook/static/js/main.4f583f49.js.map",
+    "main.3799194a.css.map": "/PixelPFacebook/static/css/main.3799194a.css.map",
+    "main.121a622a.js.map": "/PixelPFacebook/static/js/main.121a622a.js.map",
     "787.a46efa3f.chunk.js.map": "/PixelPFacebook/static/js/787.a46efa3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9730a2f.css",
-    "static/js/main.4f583f49.js"
+    "static/css/main.3799194a.css",
+    "static/js/main.121a622a.js"
   ]
 }
